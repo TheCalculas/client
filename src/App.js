@@ -3,7 +3,6 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Delete from "./Components/Delete";
 import Insert from "./Components/Insert";
-import Show from "./Components/Show";
 import LoginType from "./Components/LoginType/LoginType";
 import Parent from "./Components/LoginPage/Parent";
 import Admin from "./Components/LoginPage/Admin";
